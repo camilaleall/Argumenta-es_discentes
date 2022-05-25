@@ -1,0 +1,4 @@
+Nome do projeto:Argumentações de discentes do Campus Euclides da Cunha
+Justificativa: Optamos produzir esse sistema,para evolução e desenvolvimento dos discentes, a fim de que os mesmos criem autonomia para relatar os obtáculos acadêmicos e psicolocogicos que dificutam a aprendizagem.
+Descrição do produto: de início, será um sistema com muita facilidade de uso, onde o usuário (discente do IFBa- Campus E.da Cunha) irá realizar o login com os mesmos dados dos outros sistemas do IFBa (AVA e SUAP), onde terá de adicionar o número de matrícula e a senha "ifba. número 
+em seguida, opções das turmas que o aluno se ingressa, depois inserir o impedimento da aprendizagem (acadêmico ou psicológico), ao inserir "acadêmico" aparecerá uma lista das disciplinas onde o aluno irá acessar e relatar a dificuldade, já se o discente acessar o "psicológico" irá diretamente a campo onde descreverá o problema.
